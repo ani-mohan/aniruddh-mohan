@@ -4,12 +4,16 @@ role: PhD Student in Engineering and Public Policy
 avatar_filename: avatar.png
 organizations:
   - name: Carnegie Mellon University
+    url: https://www.cmu.edu/epp/index.html
 superuser: true
 authors:
   - admin
 bio: ""
 interests:
-  - ""
+  - energy policy
+  - automation
+  - climate policy
+  - environmental accounting
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,7 +28,13 @@ social:
     icon: linkedin
     link: https://www.linkedin.com/in/aniruddhmohan/
 education:
-  courses: []
+  courses:
+    - course: MPhil in Nuclear Energy
+      institution: University of Cambridge
+      year: ""
+    - course: BEng. Hons. Mechanical Engineering
+      institution: University of Manchester
+      year: ""
 email: aniruddh@cmu.edu
 user_groups:
   - Researchers
