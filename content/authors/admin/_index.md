@@ -26,7 +26,10 @@ social:
     icon: linkedin
     link: https://www.linkedin.com/in/aniruddhmohan/
 education:
-  courses: MPhil in Nuclear Energy from the University of Cambridge
+  courses: 
+  - course: MPhil in Nuclear Energy
+  - institution: University of Cambridge
+  - year: 2012-13
 email: aniruddh@cmu.edu
 user_groups:
   - Researchers
