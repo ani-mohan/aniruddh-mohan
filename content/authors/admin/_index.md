@@ -1,7 +1,7 @@
 ---
 title: Aniruddh Mohan
 role: PhD Student in Engineering and Public Policy
-avatar_filename: headshot_smile.png
+avatar_filename: avatar.png
 organizations: []
 superuser: true
 authors:
@@ -16,9 +16,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/animohan11
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon_pack: ai
     icon: google-scholar
     link: https://scholar.google.com/citations?user=_4B52b4AAAAJ&hl=en&oi=ao
