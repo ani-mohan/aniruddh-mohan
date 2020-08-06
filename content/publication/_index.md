@@ -13,3 +13,8 @@ header:
   caption: ""
   image: ""
 ---
+
+title: Trade-offs between automation and light vehicle electrification
+date: June 2020
+publication_types: 2
+publication: Nature Energy
