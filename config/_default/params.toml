@@ -16,7 +16,7 @@
 theme = "coffee"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -97,10 +97,10 @@ address = {street = "129 Baker Hall", city = "Pittsburgh", region = "PA", postco
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "40.441793", longitude = "-79.945684"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+#directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
