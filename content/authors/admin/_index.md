@@ -31,10 +31,10 @@ education:
   courses:
     - course: MPhil in Nuclear Energy
       institution: University of Cambridge
-      year: ""
+      year: 2012-13
     - course: BEng. Hons. Mechanical Engineering
       institution: University of Manchester
-      year: ""
+      year: 2009-12
 email: aniruddh@cmu.edu
 user_groups:
   - Researchers
@@ -43,14 +43,3 @@ user_groups:
 Aniruddh Mohan is pursuing his PhD in Engineering & Public Policy at Carnegie Mellon. His doctoral research is on the technology policy challenges of autonomous vehicles (self-driving cars). His work has been published in peer reviewed journals such as *Nature Energy, Energy Policy, Climate Policy*, and *Energy Research and Social Science* and received media coverage in several news outlets including Bloomberg, Wired, and Axios. Aniruddh has also penned opinion columns for the *Hindustan Times*, *Brookings Institution, Australian Strategic Policy Institute, Wire,* and *Scroll* among others.
 
 In 2017-18 he was an Alexander von Humboldt International Climate Protection Fellow at the Wuppertal Institute for Climate, Environment and Energy in Germany.
-
-[background]
-  # Background color.
-  color = "navy"
-  
-  # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
-
-  # Text color (true=light or false=dark).
-  text_color_light = true
