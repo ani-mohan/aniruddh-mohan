@@ -1,6 +1,6 @@
 ---
 title: Aniruddh Mohan
-role: PhD Student in Engineering and Public Policy
+role: PhD Student in Engineering and Public Policy, Carnegie Mellon University
 avatar_filename: avatar.png
 organizations: []
 superuser: true
