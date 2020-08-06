@@ -14,7 +14,8 @@ header:
   image: ""
 ---
 
-title: Trade-offs between automation and light vehicle electrification
-date: June 2020
-publication_types: 2
-publication: Nature Energy
++++
+title = "Trade-offs between automation and light vehicle electrification"
+date = "2020-01-01"
+authors = ["Aniruddh Mohan", "Shashank Sripad", "Parth Vaishnav", "Venkatasubramanian Viswanathan"]
+publication_types = ["2"]
