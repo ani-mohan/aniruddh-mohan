@@ -296,3 +296,19 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+
+
+############################
+## Web Feed settings
+############################
+
+# Used as unique identifier in atom feed
+#  generated using https://www.uuidgenerator.net/
+# Also see RFC3987 and RFC2141
+id = ""
+
+[feed]
+  icon = "img/icon-72.png"
+  logo = "img/icon-512.png"
+  sections = [ "post" ]
+  item_id = "uuid"
