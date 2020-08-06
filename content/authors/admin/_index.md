@@ -1,7 +1,7 @@
 ---
 title: Aniruddh Mohan
 role: PhD Student in Engineering and Public Policy
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 organizations:
   - name: Carnegie Mellon University
     url: https://www.cmu.edu/epp/index.html
