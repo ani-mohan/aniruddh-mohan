@@ -14,26 +14,8 @@ header:
   image: ""
 ---
 
-Trade-offs between automation and light vehicle electrification \
-Nature Energy (2020) \
-Aniruddh Mohan, Shashank Sripad, Parth Vaishnav, Venkat Viswanathan 
-
-Is India pulling its weight? India’s nationally determined contribution and future energy plans in global climate policy \
-Climate Policy (2019) \
-Aniruddh Mohan, Timon Wehnert
-
-India’s energy future: Contested narratives of change \
-Energy Research & Social Science (2018) \
-Aniruddh Mohan, Kilian Topp
-
-From Rio to Paris: India in Global Climate Politics \
-Rising Powers Quarterly (2017) \
-Aniruddh Mohan
-
-Whose land is it anyway? Energy futures & land use in India \
-Energy Policy (2017) \
-Aniruddh Mohan
-
-Plus ça change, plus c’est la même chose: Adaptation in the Paris Agreement \
-India Quarterly (2016) \
-Vikrom Mathur, Aniruddh Mohan
++++
+title = "Trade-offs between automation and light vehicle electrification"
+date = "2020-01-01"
+authors = ["Aniruddh Mohan", "Shashank Sripad", "Parth Vaishnav", "Venkatasubramanian Viswanathan"]
+publication_types = ["2"]
