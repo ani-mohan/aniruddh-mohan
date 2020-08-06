@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: Peer Reviewed Publications
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -26,3 +26,14 @@ India’s energy future: Contested narratives of change \
 Energy Research & Social Science (2018) \
 Aniruddh Mohan, Kilian Topp
 
+From Rio to Paris: India in Global Climate Politics \
+Rising Powers Quarterly (2017) \
+Aniruddh Mohan
+
+Whose land is it anyway? Energy futures & land use in India \
+Energy Policy (2017) \
+Aniruddh Mohan
+
+Plus ça change, plus c’est la même chose: Adaptation in the Paris Agreement \
+India Quarterly (2016) \
+Vikrom Mathur, Aniruddh Mohan
