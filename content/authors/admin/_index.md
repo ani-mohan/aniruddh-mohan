@@ -1,10 +1,11 @@
 ---
+title: Aniruddh Mohan
+role: PhD Student in Engineering and Public Policy
+avatar_filename: headshot_smile.png
 organizations: []
 superuser: true
 authors:
   - admin
-title: Aniruddh Mohan
-role: PhD Student in Engineering and Public Policy
 bio: ""
 interests:
   - ""
