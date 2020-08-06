@@ -40,6 +40,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Aniruddh Mohan is a PhD student in the Department of Engineering & Public Policy at Carnegie Mellon University . His PhD is on the technology policy challenges of autonomous vehicles (self-driving cars). His work has been published in peer reviewed journals such as *Nature Energy, Energy Policy, Climate Policy*, and *Energy Research and Social Science* and received media coverage in several news outlets including Bloomberg, Wired, and Axios. Aniruddh has also published commentaries for the Hindustan Times, Brookings Institution, Australian Strategic Policy Institute, Wire, and Scroll among others.
+Aniruddh Mohan is pursuing his PhD in Engineering & Public Policy at Carnegie Mellon University . His PhD is on the technology policy challenges of autonomous vehicles (self-driving cars). His work has been published in peer reviewed journals such as *Nature Energy, Energy Policy, Climate Policy*, and *Energy Research and Social Science* and received media coverage in several news outlets including Bloomberg, Wired, and Axios. Aniruddh has also published commentaries for the Hindustan Times, Brookings Institution, Australian Strategic Policy Institute, Wire, and Scroll among others.
 
 In 2017-18 he was an Alexander von Humboldt International Climate Protection Fellow at the Wuppertal Institute for Climate, Environment and Energy in Germany.
