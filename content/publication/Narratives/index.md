@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: _Energy Research and Social Science_
+publication: *Energy Research and Social Science*
 #italicized
 
 abstract: In this perspective article, we undertake a brief empirical analysis of the dominant narratives in debates around India’s energy future. India has ambitious goals for increasing renewable energy and enabling universal energy access, but there is little social consensus on how these goals should be achieved. We find two compelling narratives in energy policy debates in the country- ‘energy for development’ that privileges energy as critical to economic growth and long term strategic security; and ‘energy for all’ that prioritises the role of energy for basic development and ending poverty. We find that while these narratives find common ground on certain issues such as the role of coal, they clash in the socio-technical imaginaries they represent about India’s energy future. Indian energy policy has been characterised so far by top down, centralised policymaking. With this article, we highlight the societal choices that are inherent in discussions about transformations in India’s electricity sector and call for further research on the socio-cultural dimensions of future energy pathways in India.
