@@ -5,11 +5,13 @@ name = "Custom"
 dark = true
 
 # Primary
-primary = "#5DADE2" #lightblue
-#3f51b5 torquoise green
+primary = "#11AD93"  torquoise green lightish
+
+#5DADE2 #lightblue
+#3f51b5 ocean blue
 
 # Menu
-menu_primary = "#0EA8AF" # 500
+menu_primary = "#0EA8AF" # 500   torquoise green
 menu_text = "#fff"
 menu_text_active = "#fbfcfc" # A100
 menu_title = "#fff"
