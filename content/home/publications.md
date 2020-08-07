@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-You can see all publications and filter them by type and date [here]({{< ref "/publication/_index.md" >}}).
+You can filter all publications by type and date [here]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
