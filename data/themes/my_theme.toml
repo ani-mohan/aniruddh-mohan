@@ -11,7 +11,8 @@ primary = "#3498DB" #lightish blue
 #3f51b5 ocean blue
 
 # Menu
-menu_primary = "#2874A6"  #solid darkish blue   
+menu_primary = "#1b4f72" #darkish blue hue
+#2874A6 solid linkedin style blue   
 #torquoise green #0EA8AF
 menu_text = "#fff"
 menu_text_active = "#fbfcfc" # A100
