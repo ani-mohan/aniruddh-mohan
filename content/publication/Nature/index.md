@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: Nature Energy
 #publication_short: In *Chemical Educator Press*
 
-#abstract: 
+abstract: Weight, computing load, sensor load and possibly higher drag may increase the energy use of automated electric vehicles relative to human-driven electric vehicles, although this increase may be offset by smoother driving. Here, we use a vehicle dynamics model to evaluate the trade-off between automation and electric vehicle range and battery longevity. We find that automation will likely reduce electric vehicle range by 5–10% for suburban driving and by 10–15% for city driving. The effect on range is strongly influenced by sensor drag for suburban driving and computing loads for city driving. The impact of automation on battery longevity is negligible. While some commentators have suggested that the power and energy requirements of automation mean that the first automated vehicles will be gas–electric hybrids, our results suggest that this need not be the case if automakers can implement energy-efficient computing and aerodynamic sensor stacks.
 
 # Summary. An optional shortened abstract.
 #summary: 
@@ -33,9 +33,9 @@ publication: Nature Energy
 featured: true
 
 links:
-- name: Nature Energy
+- name: Nature Energy Link
   url: https://www.nature.com/articles/s41560-020-0644-3
-#url_pdf: https://www.researchgate.net/profile/Aniruddh_Mohan/publication/342352008_The_Growth_of_Nations_Revisited_Global_Environmental_Accounting_from_1998_to_2018/links/5ef010b4299bf1faac6c90b3/The-Growth-of-Nations-Revisited-Global-Environmental-Accounting-from-1998-to-2018.pdf
+url_pdf: https://www.researchgate.net/profile/Aniruddh_Mohan/publication/342352008_The_Growth_of_Nations_Revisited_Global_Environmental_Accounting_from_1998_to_2018/links/5ef010b4299bf1faac6c90b3/The-Growth-of-Nations-Revisited-Global-Environmental-Accounting-from-1998-to-2018.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
