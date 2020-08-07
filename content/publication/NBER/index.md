@@ -1,9 +1,13 @@
 ---
-title: "The Growth of Nations Revisited- Global Environmental Accounting from 1998 to 2018" 
+title: "The Growth of Nations Revisited: Global Environmental Accounting from 1998 to 2018" 
 
 authors:
 - Aniruddh Mohan
 - Nicholas Z. Muller
+- Akshay Thyagarajan 
+- Randall V. Martin
+- Melanie S. Hammer 
+- Aaron van Donkelaar
 
 date: "2020-06-22T00:00:00Z"
 doi: ""
@@ -18,7 +22,7 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Chemical Educator Press*
+publication: National Bureau of Economic Research Working Paper Series
 #publication_short: In *Chemical Educator Press*
 
 #abstract: 
@@ -31,9 +35,9 @@ publication_types: ["3"]
 featured: true
 
 links:
-- name: Custom Link
+- name: NBER
   url: https://www.nber.org/papers/w27398
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url_pdf: https://www.researchgate.net/publication/342352008_The_Growth_of_Nations_Revisited_Global_Environmental_Accounting_from_1998_to_2018
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
