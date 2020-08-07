@@ -183,7 +183,7 @@
 - id: pub_patent
   translation: Patent
   
-- id: working_paper
+- id: pub_working_paper
   translation: Working Paper
 
 # Project details
