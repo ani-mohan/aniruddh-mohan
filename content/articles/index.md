@@ -15,3 +15,5 @@ header:
 ---
 
 
+1- Mohan, A., Sripad, S., Vaishnav, P., & Viswanathan, V. (2020). Trade-offs between automation and light vehicle electrification. Nature Energy, 5(7), 543-549.
+2- Mohan, A. (2017). From Rio to Paris: India in global climate politics.
