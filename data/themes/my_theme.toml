@@ -2,10 +2,11 @@
 name = "Custom"
 
 # Is theme light or dark?
-dark = true
+light = true
 
 # Primary
-primary = "#3498DB" #lightish blue
+primary = "#2E86C1" #slightly darker than below
+#3498DB #lightish blue
 #11AD93  #torquoise green lightish
 #5DADE2 #lightblue
 #3f51b5 ocean blue
