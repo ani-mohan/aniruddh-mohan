@@ -37,7 +37,7 @@ featured: true
 links:
 - name: NBER
   url: https://www.nber.org/papers/w27398
-  url_pdf: https://www.researchgate.net/profile/Aniruddh_Mohan/publication/342352008_The_Growth_of_Nations_Revisited_Global_Environmental_Accounting_from_1998_to_2018/links/5ef010b4299bf1faac6c90b3/The-Growth-of-Nations-Revisited-Global-Environmental-Accounting-from-1998-to-2018.pdf
+url_pdf: https://www.researchgate.net/profile/Aniruddh_Mohan/publication/342352008_The_Growth_of_Nations_Revisited_Global_Environmental_Accounting_from_1998_to_2018/links/5ef010b4299bf1faac6c90b3/The-Growth-of-Nations-Revisited-Global-Environmental-Accounting-from-1998-to-2018.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
