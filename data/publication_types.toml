@@ -3,10 +3,11 @@
 types = [ "pub_uncat",
           "pub_conf",
           "pub_journal",
-          "pub_working_paper",
+          "pub_preprint",
           "pub_report",
           "pub_book",
           "pub_book_section",
           "pub_thesis",
-          "pub_patent"
+          "pub_patent",
+          "pub_working_paper"
         ]
