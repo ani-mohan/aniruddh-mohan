@@ -1,8 +1,7 @@
 ---
 title: "From Rio to Paris: India in global climate politics" 
 
-authors: 
-- ["**Aniruddh Mohan**"]
+authors: ["**Aniruddh Mohan**"]
 
 date: "2017-11-30T00:00:00Z"
 doi: ""
