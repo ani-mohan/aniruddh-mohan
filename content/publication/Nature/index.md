@@ -41,8 +41,8 @@ url_pdf: https://www.researchgate.net/publication/342536070_Trade-offs_between_a
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+image:
+  caption: 'Results of the MC simulation of AEV range for different EV models. The y axis shows the percentage change in range for the AEV compared to the base EV, (RangeAEV – RangeEV)/RangeEV. The horizontal red line is the median change in range, and the red data points are the data that are beyond the whisker where the maximum whisker length is 1.5 times the interquartile range. The x axis lists the five EVs considered in the analysis. **a**, Box plot showing the range impact for the composite drive profile and for automated solutions with and without LiDAR. **b**, Box plot showing the range impacts for the city drive profile and for automated solutions with and without LiDAR. Image credit: Nature Energy'
   #focal_point: ""
   #preview_only: false
 
