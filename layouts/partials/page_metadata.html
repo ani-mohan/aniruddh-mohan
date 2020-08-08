@@ -30,7 +30,9 @@
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
   <span class="middot-divider"></span>
   <span class="pub-publication">
-    {{ if $page.Params.publication_short }}
+    {{ if $page.Params.authors }}
+      {{ $page.Params.authors | markdownify }}
+    {{ else if $page.Params.publication_short }}
       {{ $page.Params.publication_short | markdownify }}
     {{ else if $page.Params.publication }}
       {{ $page.Params.publication | markdownify }}
