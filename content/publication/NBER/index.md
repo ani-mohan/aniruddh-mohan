@@ -2,7 +2,7 @@
 title: "The Growth of Nations Revisited: Global Environmental Accounting from 1998 to 2018." 
 
 authors:
-- "<b>Aniruddh Mohan</b>"
+- "<b>Aniruddh Mohan"
 - Nicholas Z. Muller
 - Akshay Thyagarajan 
 - Randall V. Martin
