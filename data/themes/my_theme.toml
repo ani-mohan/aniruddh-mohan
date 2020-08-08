@@ -16,7 +16,7 @@ menu_primary = "#1b4f72" #darkish blue hue
 #2874A6 solid linkedin style blue   
 #torquoise green #0EA8AF
 menu_text = "#fff"
-menu_text_active = "#fbfcfc" # A100
+menu_text_active = "#D0D3D4" # A100 greyish #fbfcfc - white
 menu_title = "#fff"
 
 # Home sections
