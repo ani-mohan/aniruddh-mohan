@@ -2,7 +2,7 @@
 title: "Is India pulling its weight? India's nationally determined contribution and future energy plans in global climate policy" 
 
 authors: 
-- Aniruddh Mohan
+- admin
 - Timon Wehnert
 
 date: "2019-03-29T00:00:00Z"
