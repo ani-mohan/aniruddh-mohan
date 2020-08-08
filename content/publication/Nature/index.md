@@ -2,7 +2,7 @@
 title: "Trade-offs between automation and light vehicle electrification" 
 
 authors:
-- Aniruddh Mohan
+- admin
 - Shashank Sripad
 - Parth Vaishnav 
 - Venkat Viswanathan
