@@ -41,7 +41,7 @@ url_pdf: https://www.researchgate.net/profile/Aniruddh_Mohan/publication/3423520
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: "TEST"
+  #focal_point: "TEST"
   #preview_only: false
 
 # Associated Projects (optional).
