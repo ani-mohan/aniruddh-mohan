@@ -2,7 +2,7 @@
 title: "Whose land is it anyway? Energy futures & land use in India" 
 
 authors:
-- Aniruddh Mohan
+- admin
 
 date: "2017-11-29T00:00:00Z"
 doi: ""
