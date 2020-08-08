@@ -1,7 +1,9 @@
 ---
 title: "India's energy future: Contested narratives of change" 
 
-authors: "**Aniruddh Mohan**", "Kilian Topp"
+authors: 
+- Aniruddh Mohan
+- Kilian Topp
 
 date: "2018-10-29T00:00:00Z"
 doi: ""
