@@ -186,6 +186,9 @@
 - id: pub_working_paper
   translation: Working Paper
 
+- id: pub_opinion
+  translation: Opinion Columns 
+
 # Project details
 
 - id: open_project_site
