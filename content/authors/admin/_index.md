@@ -31,10 +31,8 @@ education:
   courses:
     - course: MPhil in Nuclear Energy
       institution: University of Cambridge
-      year: 2012-13
     - course: BEng. Hons. Mechanical Engineering
       institution: University of Manchester
-      year: 2009-12
 email: aniruddh@cmu.edu
 user_groups:
   - Researchers
