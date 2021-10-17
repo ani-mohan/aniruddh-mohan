@@ -23,7 +23,7 @@ abstract: Ahead of the Conference of Parties (COP) 24 where countries will first
 
 #tags:
 #- Source Themes
-featured: true
+featured: false
 
 links:
 - name: Climate Policy Link
