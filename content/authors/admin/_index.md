@@ -11,9 +11,9 @@ authors:
 bio: ""
 interests:
   - energy policy
-  - automation
+  - transport
   - climate policy
-  - environmental accounting
+  - environmental economics
 social:
   - icon: envelope
     icon_pack: fas
