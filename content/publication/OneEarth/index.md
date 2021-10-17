@@ -1,6 +1,6 @@
 
 ---
-title: "Trade-offs between automation and light vehicle electrification" 
+title: "UNFCCC must confront the political economy of net-negative emissions" 
 
 authors:
 - admin
