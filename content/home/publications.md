@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 1
@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "2"
     author = ""
     exclude_featured = false
   
