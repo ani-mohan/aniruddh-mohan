@@ -1,4 +1,3 @@
-
 ---
 title: "UNFCCC must confront the political economy of net-negative emissions" 
 
@@ -12,6 +11,9 @@ authors:
 date: "2021-10-13T00:00:00Z"
 doi: ""
 
+# Schedule page publish date (NOT publication's date).
+#publishDate: "2021-06-22T00:00:00Z"
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -22,6 +24,7 @@ publication_types: ["2"]
 publication: "*One Earth*"
 
 abstract: Recent demands by developing countries, like India, that developed countries need to reach net-negative emissions, must be negotiated seriously under the UNFCCC. Failure to acknowledge that limiting global average temperature rise to 1.5°C leaves very little carbon budget for equitable redistribution risks further ambiguity on how to achieve the Paris Agreement’s goals.
+
 
 # Summary. An optional shortened abstract.
 #summary: 
