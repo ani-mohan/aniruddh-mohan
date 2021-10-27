@@ -10,7 +10,7 @@ authors:
   - admin
 bio: ""
 interests:
-  - energy policy
+  - energy systems
   - transport
   - climate policy
   - environmental economics
