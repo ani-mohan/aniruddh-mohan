@@ -20,7 +20,7 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/animohan11
+    link: https://twitter.com/aniruddh_mohan
   - icon_pack: ai
     icon: google-scholar
     link: https://scholar.google.com/citations?user=_4B52b4AAAAJ&hl=en&oi=ao
