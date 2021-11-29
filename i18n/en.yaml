@@ -113,9 +113,6 @@
 - id: more_talks
   translation: See all talks
 
-- id: more_publications
-  translation: See all publications
-
 # Contact widget
 
 - id: contact_name
