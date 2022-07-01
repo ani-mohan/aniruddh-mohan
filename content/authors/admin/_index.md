@@ -1,6 +1,6 @@
 ---
 title: Aniruddh Mohan
-role: PhD Candidate in Engineering and Public Policy
+role: Engineering and Public Policy
 avatar_filename: avatar.png
 organizations:
   - name: Carnegie Mellon University
@@ -29,6 +29,8 @@ social:
     link: https://www.linkedin.com/in/aniruddhmohan/
 education:
   courses:
+    - course: PhD in Engineering and Public Policy
+      institution: Carnegie Mellon University
     - course: MPhil in Nuclear Energy
       institution: University of Cambridge
     - course: BEng. Hons. Mechanical Engineering
