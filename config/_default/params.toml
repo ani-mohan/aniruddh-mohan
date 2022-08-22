@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "aniruddh@cmu.edu"
+email = "aniruddh@princeton.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "5215 Wean Hall", city = "Pittsburgh", region = "PA", postcode = "15213", country = "United States", country_code = "US"}
+address = {street = "86 Olden Ave", city = "Princeton", region = "NJ", postcode = "08544", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.441793", longitude = "-79.945684"}
+coordinates = {latitude = "40.34919", longitude = "-74.65125"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
