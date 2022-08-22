@@ -35,7 +35,7 @@ education:
       institution: University of Cambridge
     - course: BEng. Hons. Mechanical Engineering
       institution: University of Manchester
-email: aniruddh@cmu.edu
+email: aniruddh@princeton.edu
 user_groups:
   - Researchers
   - Visitors
