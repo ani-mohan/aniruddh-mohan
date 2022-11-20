@@ -13,6 +13,7 @@ interests:
   - Transportation
   - Energy systems
   - Climate policy
+  - Environmental economics
 social:
   - icon: envelope
     icon_pack: fas
