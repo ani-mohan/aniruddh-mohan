@@ -12,8 +12,8 @@ bio: ""
 interests:
   - Transportation
   - Energy systems
+  - Carbon Dioxide Removal
   - Climate policy
-  - Environmental economics
 social:
   - icon: envelope
     icon_pack: fas
