@@ -47,7 +47,7 @@ publication: "The State of Carbon Dioxide Removal"
 
 #tags:
 #- Source Themes
-featured: true
+featured: false
 
 links:
 - name: State of Carbon Dioxide Removal 
