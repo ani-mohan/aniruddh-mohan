@@ -113,10 +113,6 @@ office_hours = []
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/animohan11"},
-  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
 ############################
@@ -210,7 +206,7 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
+  news_view = 2
   publication_view = 4
   talk_view = 2
 
