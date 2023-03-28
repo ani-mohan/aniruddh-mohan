@@ -1,5 +1,5 @@
 ---
-title: "Aniruddh Mohan quoted in NJ.com [story]({{< nj.com >}}) on electric vehicles in New Jersey" 
+title: "Aniruddh Mohan quoted in NJ.com story on electric vehicle targets in New Jersey" 
 
 date: "2022-02-17T00:00:00Z"
 
