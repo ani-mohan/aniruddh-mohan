@@ -64,3 +64,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}} You can view all news [here]({{< ref "/news/" >}}). {{% /alert %}}
