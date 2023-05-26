@@ -6,6 +6,11 @@ weight: 100
 title: Recent news
 subtitle: ''
 content:
+ # Choose how much pages you would like to display (0 = all pages)
+  count = 3
+  
+  order = "desc"
+  
   page_type: news
   filter_default: 0
   filter_button:
@@ -46,14 +51,13 @@ subtitle = ""
   # Page type to display. E.g. news, talk, or publication.
   page_type = "news"
   
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+ 
   
   # Choose how many pages you would like to offset by
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  
 
   # Filter posts by a taxonomy term.
   [content.filters]
