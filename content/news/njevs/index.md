@@ -10,7 +10,6 @@ summary: Aniruddh Mohan was interviewed by NJ.com on New Jersey Governor Phil Mu
 - Media
 featured: true
 
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
@@ -21,6 +20,5 @@ image:
 links:
 - name: Link to story
   url: https://www.nj.com/news/2023/02/nj-will-now-target-100-clean-energy-require-all-electric-cars-by-2035-murphy-says.html
-  
 ---
 
