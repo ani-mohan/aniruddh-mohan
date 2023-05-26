@@ -5,7 +5,7 @@ headless: true
 weight: 100
 title: Recent news
 subtitle: ''
-content:
+[content]:
   page_type = "news"
   count = 3
   filter_default: 0
