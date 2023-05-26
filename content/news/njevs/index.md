@@ -1,5 +1,3 @@
-
-
 ---
 title: "Aniruddh Mohan quoted in NJ.com story on electric vehicle targets in New Jersey" 
 
