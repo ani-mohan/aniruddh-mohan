@@ -6,7 +6,7 @@ date: "2023-02-17T00:00:00Z"
 #Summary. An optional shortened abstract.
 summary: Aniruddh Mohan was interviewed by NJ.com on New Jersey Governor Phil Murphy's announcement that all new cars sold in the state must be fully-electric by 2035.
 
-#tags:
+tags:
 - Media
 featured: true
 
@@ -20,5 +20,6 @@ image:
 links:
 - name: Link to story
   url: https://www.nj.com/news/2023/02/nj-will-now-target-100-clean-energy-require-all-electric-cars-by-2035-murphy-says.html
+
 ---
 
