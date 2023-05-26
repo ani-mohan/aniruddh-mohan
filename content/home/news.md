@@ -1,6 +1,6 @@
 ---
 active: true
-widget: pages
+widget: portfolio
 headless: true
 weight: 100
 title: Recent news
