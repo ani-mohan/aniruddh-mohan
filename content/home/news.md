@@ -6,7 +6,7 @@ weight: 100
 title: Recent news
 subtitle: ''
 content:
-  page_type: news
+  page_type = "news"
   count = 3
   order = "desc"
   filter_default: 0
