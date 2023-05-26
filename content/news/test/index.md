@@ -1,6 +1,6 @@
 ---
 date: 2023-02-05
-<!-- publishDate: 2023-02-05 -->
+
 external_link: ""
 image:
   caption: Test
@@ -27,3 +27,4 @@ The [version 2.0](https://aniruddh-mohan.com/) :
 
 The [version 1.0](scholar.google.com) is still visible here, but is not maintained and some commands are likely to be obsolete.
 
+#publishDate: 2023-02-05 
