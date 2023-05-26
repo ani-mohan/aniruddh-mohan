@@ -6,8 +6,8 @@ date: "2023-01-25T00:00:00Z"
 #Summary. An optional shortened abstract.
 summary: Aniruddh Mohan was interviewed by Meghan McCarty Carino on the deployment of direct air capture technologies for carbon dioxide removal.
 
-#tags:
-#- Source Themes
+tags:
+- Media
 featured: true
 
 
