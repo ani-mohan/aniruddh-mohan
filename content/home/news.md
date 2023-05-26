@@ -3,7 +3,7 @@ active: true
 widget: portfolio
 headless: true
 weight: 30
-title: Last news
+title: Recent news
 subtitle: ''
 content:
   page_type: news
