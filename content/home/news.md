@@ -7,6 +7,7 @@ title: Last news
 subtitle: ''
 content:
   page_type: news
+  count: 3
   filter_default: 0
   filter_button:
     - name: All
