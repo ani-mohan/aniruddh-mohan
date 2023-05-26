@@ -2,12 +2,11 @@
 active: true
 widget: portfolio
 headless: true
-weight: 100
-title: Recent news
+weight: 30
+title: Last news
 subtitle: ''
-[content]:
-  page_type = "news"
-  count = 3
+content:
+  page_type: news
   filter_default: 0
   filter_button:
     - name: All
