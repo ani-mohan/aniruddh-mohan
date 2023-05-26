@@ -12,8 +12,6 @@ title: Recent publications
 content:
   # Filter on criteria
   filters:
-    folders:
-      - publication
     tag: ''
     category: ''
     publication_type: ''
