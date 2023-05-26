@@ -3,8 +3,8 @@ title: "Aniruddh Mohan attended the 2023 Winter Workshop on Complex Systems"
 
 date: "2023-01-29T00:00:00Z"
 
-#tags:
-#- Source Themes
+tags:
+- Personal
 featured: true
 
 
