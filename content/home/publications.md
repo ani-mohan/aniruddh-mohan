@@ -1,3 +1,4 @@
+---
 +++
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
@@ -70,3 +71,4 @@ subtitle = ""
 {{% alert note %}}
 You can filter all publications by type and date [here]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+---
