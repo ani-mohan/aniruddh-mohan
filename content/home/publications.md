@@ -3,6 +3,7 @@ widget: pages
 
 # This file represents a page section.
 headless: true
+active: true
 
 # Order that this section appears on the page.
 weight: 90
@@ -17,8 +18,6 @@ content:
     publication_type: ''
     author: ''
     exclude_featured: false
-    exclude_future: false
-    exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
   count: 4
   # Choose how many pages you would like to offset by
