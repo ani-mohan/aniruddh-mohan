@@ -8,7 +8,6 @@ subtitle: ''
 content:
   page_type = "news"
   count = 3
-  order = "desc"
   filter_default: 0
   filter_button:
     - name: All
