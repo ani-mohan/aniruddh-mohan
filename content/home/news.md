@@ -6,12 +6,9 @@ weight: 100
 title: Recent news
 subtitle: ''
 content:
- # Choose how much pages you would like to display (0 = all pages)
-  count = 3
-  
-  order = "desc"
-  
   page_type: news
+  count = 3
+  order = "desc"
   filter_default: 0
   filter_button:
     - name: All
