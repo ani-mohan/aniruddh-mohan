@@ -8,7 +8,7 @@ active: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent publications
+title: Selected publications
 
 content:
   # Choose how many pages you would like to display (0 = all pages)
