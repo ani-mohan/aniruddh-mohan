@@ -1,5 +1,5 @@
 ---
-title: "Aniruddh Mohan presents research on electrification of Uber and Lyft at Transportation Research Board Annual Meeting" 
+title: "Presented my research on electrification of Uber and Lyft at the Transportation Research Board Annual Meeting" 
 
 date: "2023-01-09T00:00:00Z"
 
