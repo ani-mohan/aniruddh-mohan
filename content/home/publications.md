@@ -19,7 +19,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: Citation
+  view: 4
 ---
 {{% alert note %}}
 You can filter all publications by type and date [here]({{< ref "/publication/_index.md" >}}).
