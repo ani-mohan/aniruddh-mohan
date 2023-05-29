@@ -9,7 +9,7 @@ superuser: true
 authors:
   - admin
 bio: ""
-Research interests:
+interests:
   - Transportation
   - Energy systems
   - Carbon Dioxide Removal
