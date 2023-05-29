@@ -1,9 +1,8 @@
----
++++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
 
-headless = true  # This file represents a page section.
 widget = "pages"
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
@@ -45,7 +44,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
----
++++
 
 {{% alert note %}}
 You can filter all publications by type and date [here]({{< ref "/publication/_index.md" >}}).
