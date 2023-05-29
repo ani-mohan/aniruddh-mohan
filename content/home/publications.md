@@ -17,9 +17,6 @@ content:
   offset: 1
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-design:
-  # Choose a view for the listings:
-  view: 4
 ---
 {{% alert note %}}
 You can filter all publications by type and date [here]({{< ref "/publication/_index.md" >}}).
