@@ -31,8 +31,8 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
-
+---
 {{% alert note %}}
 You can filter all publications by type and date [here]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
----
+
