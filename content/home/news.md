@@ -3,12 +3,12 @@ active: true
 widget: portfolio
 headless: true
 weight: 100
-show_date: false
 title: Recent news
 subtitle: ''
 content:
   page_type: news
   count: 2
+  show_date: false
   filter_default: 0
   filter_button:
     - name: All
