@@ -3,6 +3,7 @@ active: true
 widget: portfolio
 headless: true
 weight: 100
+show_date: true
 title: Recent news
 subtitle: ''
 content:
