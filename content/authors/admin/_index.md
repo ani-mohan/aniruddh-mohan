@@ -9,11 +9,6 @@ superuser: true
 authors:
   - admin
 bio: ""
-interests:
-  - Transportation
-  - Energy systems
-  - Carbon Dioxide Removal
-  - Climate policy
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,19 +22,13 @@ social:
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/aniruddhmohan/
-education:
-  courses:
-    - course: PhD in Engineering and Public Policy
-      institution: Carnegie Mellon University
-    - course: MPhil in Nuclear Energy
-      institution: University of Cambridge
-    - course: BEng. Hons. Mechanical Engineering
-      institution: University of Manchester
 email: aniruddh@princeton.edu
 user_groups:
   - Researchers
   - Visitors
 ---
-Welcome to my personal website. My research concerns the system-level impacts of emerging technologies for deep decarbonization. I am currently a Distinguished Postdoctoral Fellow at Princeton University's Andlinger Center for Energy and the Environment. I completed my PhD in Engineering & Public Policy from Carnegie Mellon University, where I studied the technology policy challenges of electric and automated vehicles. My research has been published in peer reviewed journals such as *Nature Energy, Energy Policy, Climate Policy*, and *Environmental Research Letters* and received media coverage in several news outlets including *The New York Times*, *Bloomberg*, *The Wall Street Journal*, and *Wired*. 
+Welcome to my website. I do have a standard bio but it explains little about who I am, what I do, and why. To find out more about those things, see below. If you want the boilerplate summary covering positions, awards, and accomplishments, please click here.
 
-In 2017-2018, I was an Alexander von Humboldt International Climate Protection Fellow at the Wuppertal Institute for Climate, Environment and Energy in Germany. 
+My research concerns the energy transition. My connection with energy and environmental issues started early, growing up in India experiencing power outages and air pollution. Entering university, I had a wide range of interests. I chose to study engineering to build a solid analytical and quantitative foundation to help me unpack problems. This has served me well. After a few years of energy and climate research, I decided to upgrade my analytical toolkit. I did an interdisciplinary PhD from Carnegie Mellon in Engineering & Public Policy where I sharpened my modelling skills while also learning how engineers can best leverage technical depth in informing the policy process.
+
+In my day to day, I evaluate emerging technologies for decarbonization at a systems-level, how public policy should shape their deployment, and the implications of such transitions. I draw on tools such as optimization and agent-based modelling and work across sectors like electricity, carbon removal, and transportation. I often collaborate with colleagues outside engineering, in physics, economics, and more. Maintaining rigor and intellectual depth across new frontiers is demanding. I find the process worth it, because I believe such work produces novel insights, of use to both other researchers and the broader public. I have also been lucky to learn from some fantastic mentors. I hope I can pass that forward.
