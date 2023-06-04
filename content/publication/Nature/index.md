@@ -29,7 +29,7 @@ abstract: Weight, computing load, sensor load and possibly higher drag may incre
 
 #tags:
 #- Source Themes
-featured: true
+featured: false
 
 links:
 - name: Nature Energy Link
