@@ -1,5 +1,5 @@
 ---
-title: "Presented my research on electrification of Uber and Lyft at the Maryland Transportation Institute Distinguished Seminar Series" 
+title: "Presented my research at the University of Maryland Transportation Institute Distinguished Seminar Series" 
 
 date: "2023-04-20T00:00:00Z"
 
