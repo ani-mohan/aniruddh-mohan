@@ -1,5 +1,5 @@
 ---
-title: "" 
+title: "Life Cycle Air Pollution, Greenhouse Gas, and Traffic Externality Benefits and Costs of Electrifying Uber and Lyft" 
 
 authors:
 - admin
@@ -28,7 +28,7 @@ featured: false
 links:
 - name: Journal Link
   url: https://pubs.acs.org/doi/10.1021/acs.est.2c07030#
-url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/ac98d8/pdf
+#url_pdf: 
 #url_code: '#'
 #url_dataset: '#'
 
