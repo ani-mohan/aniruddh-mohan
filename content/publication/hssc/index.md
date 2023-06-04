@@ -22,7 +22,7 @@ abstract: Automated long haul trucking is being developed for commercial deploym
 
 #tags:
 #- Source Themes
-featured: false
+featured: true
 
 links:
 - name: Journal Link
