@@ -14,7 +14,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 4
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -28,7 +28,7 @@ subtitle = ""
     category = ""
     publication_type = ""
     author = ""
-    exclude_featured = false
+    exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.
