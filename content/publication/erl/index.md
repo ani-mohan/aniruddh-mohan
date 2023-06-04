@@ -26,7 +26,7 @@ abstract:
 
 #tags:
 #- Source Themes
-featured: true
+featured: false
 
 links:
 - name: Journal Link
