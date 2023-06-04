@@ -32,7 +32,7 @@ abstract: Weight, computing load, sensor load and possibly higher drag may incre
 featured: false
 
 links:
-- name: Nature Energy Link
+- name: Journal Link
   url: https://www.nature.com/articles/s41560-020-0644-3
 url_pdf: https://www.researchgate.net/publication/342536070_Trade-offs_between_automation_and_light_vehicle_electrification
 #url_code: '#'
