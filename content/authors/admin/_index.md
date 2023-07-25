@@ -18,7 +18,7 @@ social:
     link: https://twitter.com/aniruddh_mohan
   - icon_pack: ai
     icon: google-scholar
-    link: https://scholar.google.com/citations?user=_4B52b4AAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?hl=en&user=_4B52b4AAAAJ&view_op=list_works&sortby=pubdate
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/aniruddhmohan/
