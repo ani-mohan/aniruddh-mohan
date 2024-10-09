@@ -20,7 +20,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Transportation Research Part D: Transport and Environment*"
 
-abstract: Automated trucking could be deployed based on a 'transfer hub' model. Human driven tractors will haul loads from urban origins to transfer hubs at the edge of Interstates; automated tractors will haul loads along Interstates to transfer hubs near the destination; human driven tractors will complete the journey. The need for large batteries is a barrier to the full electrification of long-haul trucking. However, in a ‘transfer hub’ model tractors deployed on urban legs can be electrified without using large batteries. Here, we assess the change in damages from air pollution from the introduction of automation and partial electrification in long haul trucking. For long haul routes below 300 miles, electrification reduces air pollution and greenhouse gas damages by 13% ($587 million annually). For long haul routes above 300 miles, electrification of just the urban segments facilitated by hub-based automation of highway driving reduces damages by 35% ($220 million annually).
+abstract: 
 
 #tags:
 #- Source Themes
