@@ -1,8 +1,8 @@
 ---
-title: "Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India" 
+title: "Ride-hailing technology mitigates effects of driver racial discrimination, but effects of residential segregation persist" 
 
 authors:
-- Felix Schenuit
+- Anna Cobb
 - admin
 - Corey Harper
 - Destenie Nock
