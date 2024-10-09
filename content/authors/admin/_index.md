@@ -1,6 +1,6 @@
 ---
 title: Aniruddh Mohan
-role: Distinguished Postdoctoral Fellow
+role: Research Scientist
 avatar_filename: avatar.png
 organizations:
   - name: Princeton University
