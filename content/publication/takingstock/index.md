@@ -33,7 +33,7 @@ featured: false
 
 links:
 - name: Journal Link
-  url: [https://www.nature.com/articles/s43247-024-01426-3](https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2353148)
+  url: https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2353148
 #url_pdf: 
 #url_code: '#'
 #url_dataset: '#'
